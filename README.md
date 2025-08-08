@@ -40,7 +40,7 @@ Sangameshwar College, Solapur (Autonomous)
 
 ## 📄 Resume
 
-🔗 [View Resume](./Vishakha_Resume.pdf)
+🔗 [View Resume](VISHAKHA_ADMANE_25.docx)
 
 ---
 
