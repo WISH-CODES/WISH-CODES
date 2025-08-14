@@ -1,6 +1,6 @@
 <h1 align="center"> Hey, I'm Vishakha! </h1>
 <p align="center">
-  <b>Backend Developer</b> | FastAPI • PostgreSQL • Redis • Docker  
+  <b> Backend Developer </b> |  EX-Tcser | FastAPI • PostgreSQL • Redis • Docker  
   <i>Open to Full-Time Backend Roles • Immediate Joiner</i>
 </p>
 
