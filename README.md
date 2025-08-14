@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hey, I'm Vishakha! ✨</h1>
+<h1 align="center"> Hey, I'm Vishakha! </h1>
 <p align="center">
   <b>Backend Developer</b> | FastAPI • PostgreSQL • Redis • Docker  
   <i>Open to Full-Time Backend Roles • Immediate Joiner</i>
